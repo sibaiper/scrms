@@ -13,7 +13,7 @@ npm install scrms
 
 to import SCRMS:
 ```bash
-import Scramble from "dragstuff";
+import Scramble from "scrms";
 ```
 
 ##
