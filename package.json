@@ -1,6 +1,6 @@
 {
   "name": "scrms",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "files": [
     "dist"
   ],
@@ -8,7 +8,7 @@
     "src/**/*"
   ],
   "description": "A library to manipulate the DOM and scramble text with seek, play, pause, restart and other settings..",
-  "main": "./dist/index.js",
+  "main": "./dist/scrambles.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

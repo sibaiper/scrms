@@ -22,7 +22,9 @@ import Scramble from "scrms";
 
 **basic example on a single HTML element:**
 
-`const animation = new Scramble("#cssSelector");`
+```JavaScript
+const animation = new Scramble("#cssSelector");
+```
 _you can also use a variable instead of a CSS selector_
 
 
