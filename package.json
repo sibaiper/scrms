@@ -1,0 +1,19 @@
+{
+  "name": "scrms",
+  "version": "1.0.0",
+  "files": [
+    "dist"
+  ],
+  "include": [
+    "src/**/*"
+  ],
+  "description": "A library to manipulate the DOM and scramble text with seek, play, pause, restart and other settings..",
+  "main": "./dist/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["scramble", "text manipulation", "text animation", "animation"],
+  "author": "Sibai Isaac",
+  "license": "MIT"
+}
