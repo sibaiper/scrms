@@ -1,4 +1,4 @@
-# SCRMS: Easy-to-Use 
+# SCRMS: Easy-to-Use text scramble animation
 
 SCRMS is a lightweight JavaScript library for implementing a scramble text animation in your web applications. With SCRMS, you can easily integrate this animation into your projects.
 
